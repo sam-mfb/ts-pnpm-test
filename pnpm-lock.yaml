@@ -12,7 +12,7 @@ importers:
       react: ~17.0.2
       rimraf: ^3.0.2
       ts-jest: ^26.5.6
-      typescript: ~4.3.5
+      typescript: ^4.5.0-dev.20210812
     dependencies:
       react: 17.0.2
     devDependencies:
@@ -22,8 +22,8 @@ importers:
       '@types/react-dom': 17.0.9
       jest: 26.6.3
       rimraf: 3.0.2
-      ts-jest: 26.5.6_jest@26.6.3+typescript@4.3.5
-      typescript: 4.3.5
+      ts-jest: 26.5.6_03b77aed294a7c1c8be7964138a43fae
+      typescript: 4.5.0-dev.20210812
 
 packages:
 
@@ -3309,7 +3309,7 @@ packages:
       punycode: 2.1.1
     dev: true
 
-  /ts-jest/26.5.6_jest@26.6.3+typescript@4.3.5:
+  /ts-jest/26.5.6_03b77aed294a7c1c8be7964138a43fae:
     resolution: {integrity: sha512-rua+rCP8DxpA8b4DQD/6X2HQS8Zy/xzViVYfEs2OQu68tkCuKLV0Md8pmX55+W24uRIyAsf/BajRfxOs+R2MKA==}
     engines: {node: '>= 10'}
     hasBin: true
@@ -3327,7 +3327,7 @@ packages:
       make-error: 1.3.6
       mkdirp: 1.0.4
       semver: 7.3.5
-      typescript: 4.3.5
+      typescript: 4.5.0-dev.20210812
       yargs-parser: 20.2.9
     dev: true
 
@@ -3364,8 +3364,8 @@ packages:
       is-typedarray: 1.0.0
     dev: true
 
-  /typescript/4.3.5:
-    resolution: {integrity: sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA==}
+  /typescript/4.5.0-dev.20210812:
+    resolution: {integrity: sha512-4gG6e/VG2spdGmZKx/y0ZudZGYSsgiRrrkI+79TVh9CD7KtrMp8xHN/IwM538Sk9YTmXxM0dv3W6czfAt6S1MA==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
